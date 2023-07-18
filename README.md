@@ -1,8 +1,12 @@
-# first_app
+# Roll Dice
 
-A new Flutter project.
+
+![Calculate_bmi](./git_assets/roll_dice_ss.png)
+
+
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
